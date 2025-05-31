@@ -7,10 +7,6 @@ The project entrypoints are:
 
 All the other files contain helper functions and utilities.
 
-The FJSSP instances are divided into two folders:
-- dataset5k: contains the instances used for training models.
-- benchmarks: contains the test and validation instances. 
-
 
 ## Dataset and benchmark instances
 
@@ -36,6 +32,4 @@ follow the same structure.
 
 After the instance, a rough upper bound is given for scaling the instance.
 
-
-## Data
 Please download the data from [here](https://drive.google.com/file/d/1VQLB-fwjWOdmwpFrWpFad3_9Eyro6DRO/view?usp=sharing)

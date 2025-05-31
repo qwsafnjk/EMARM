@@ -37,3 +37,5 @@ follow the same structure.
 After the instance, a rough upper bound is given for scaling the instance.
 
 
+## Data
+Please download the data from [here](https://drive.google.com/file/d/1VQLB-fwjWOdmwpFrWpFad3_9Eyro6DRO/view?usp=sharing)

@@ -18,10 +18,11 @@ All the instances used for training and testing follow the same structure.
 Here is a small example:
 
 ```
-3 2             # Instance shape (num. jobs and num. machines)
+3 2           
 0 9 13 17 1 6 9 12
 1 5 8 9 0 7 8 10
 1 3 5 6 0 3 4 5
+10
 ```
 
 The first line gives the number of jobs and machines in the instance. 
